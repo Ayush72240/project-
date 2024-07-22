@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: ayushxd/pipe1:3
+        image: ayushxd/pipe1:4
         ports:
         - containerPort: 80
 
