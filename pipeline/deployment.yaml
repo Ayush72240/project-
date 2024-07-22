@@ -18,5 +18,5 @@ spec:
       - name: nginx
         image: ayushxd/pipe1:4
         ports:
-        - containerPort: 80
+        - containerPort: 8080
 
